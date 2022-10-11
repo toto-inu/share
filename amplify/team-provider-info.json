@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voicememo-dev-162350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::922906750263:role/amplify-voicememo-dev-162350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::922906750263:role/amplify-voicememo-dev-162350-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-voicememo-dev-162350-deployment",
+      "UnauthRoleName": "amplify-voicememo-dev-162350-unauthRole",
+      "StackName": "amplify-voicememo-dev-162350",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:922906750263:stack/amplify-voicememo-dev-162350/534cd920-47a3-11ed-aed7-0e850f83e89f",
+      "AmplifyAppId": "d30bmt1cymyz2m"
+    }
+  }
+}
